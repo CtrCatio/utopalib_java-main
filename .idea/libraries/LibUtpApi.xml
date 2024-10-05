@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibUtpApi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LibUtpApi/out/artifacts/LibUtpApi_jar/LibUtpApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

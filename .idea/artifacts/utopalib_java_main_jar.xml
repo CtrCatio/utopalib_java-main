@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="utopalib_java-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/utopalib_java_main_jar</output-path>
+    <root id="archive" name="utopalib_java-main.jar">
+      <element id="module-output" name="utopalib_java-main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/LibUtpApi/out/artifacts/LibUtpApi_jar/LibUtpApi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/LibUtpApi/out/production/LibUtpApi/json-20201115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/LibUtpApi/src/json-20201115.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
