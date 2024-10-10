@@ -1,6 +1,12 @@
 # utopialib-java
 Utopia Ecosystem API wrapper written in Java
 
+How to
+
+1. Add a jar file to your project located in out/artifacts/utopalib_java_main_jar
+2. Import the import  ```com.company.libUtp library;```
+
+
 example class
 
 ```java
