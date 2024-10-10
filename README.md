@@ -10,9 +10,11 @@ This library is a must have for anyone who wants to start their web3 journey wit
 How to
 1. 
 ```bash
-go get github.com/CtrCatio/utopalib_java-main/out/artifacts/utopalib_java_main_jar/utopalib_java-main.jar```
+go get github.com/CtrCatio/utopalib_java-main/out/artifacts/utopalib_java_main_jar/utopalib_java-main.jar
+```
 
 2. Import library 
+
 ```java 
 import com.company.libUtp; 
 ```
