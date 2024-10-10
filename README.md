@@ -38,3 +38,10 @@ response:
 ```
 {"result": {"buildAbi": "x86_64-little_endian-llp64","buildCpuArchitecture": "x86_64","build_number": "1.0.7114","currentCpuArchitecture": "x86_64","netCoreRate": 25,"networkCores": 4,"networkEnabled": true,"numberOfConnections": 15,"packetCacheSize": 977753,"uptime": "01:37:58"},"resultExtraInfo": {"elapsed": "0"}}
 ```
+
+How can this be used?
+creating a web service that processes client requests;
+creation of a payment service;
+development of a bot for the channel;
+utility for working with uNS;
+experiments to explore web3.0;
