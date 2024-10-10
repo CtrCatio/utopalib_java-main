@@ -40,8 +40,8 @@ response:
 ```
 
 How can this be used?
-creating a web service that processes client requests;
-creation of a payment service;
-development of a bot for the channel;
-utility for working with uNS;
-experiments to explore web3.0;
+1. creating a web service that processes client requests;
+2. creation of a payment service;
+3. development of a bot for the channel;
+4. utility for working with uNS;
+5. experiments to explore web3.0;
