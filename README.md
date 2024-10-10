@@ -22,13 +22,12 @@ public class Main {
     public static void main(String[] args) throws IOException {
         // sample using
 
-        libUtp lol = new libUtp();
+        libUtp utpAPI = new libUtp();
 
-        lol.port = "20000";
-        lol.token =  "219C91A00340B54F7AD4C1DB40E9B9E3";
+        utpAPI .port = "20000";
+        utpAPI .token =  "219C91A00340B54F7AD4C1DB40E9B9E3";
 
-        System.out.println(lol.getSystemInfo());
-        //System.out.println(lol.getReleaseNotes());
+        System.out.println(utpAPI .getSystemInfo());
     }
 }
 ```
