@@ -8,7 +8,7 @@ This library is a must have for anyone who wants to start their web3 journey wit
 
 How to
 
-1. Add a jar file to your project located in out/artifacts/utopalib_java_main_jar
+1. go get github.com/CtrCatio/utopalib_java-main/out/artifacts/utopalib_java_main_jar/utopalib_java-main.jar
 2. Import library 
 ```java 
 import com.company.libUtp; 
