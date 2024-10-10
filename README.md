@@ -8,9 +8,6 @@ This library is a must have for anyone who wants to start their web3 journey wit
 
 -----
 How to
-```bash
-go get github.com/CtrCatio/utopalib_java-main/out/artifacts/utopalib_java_main_jar/utopalib_java-main.jar
-```
 
 Import library 
 
