@@ -1,5 +1,8 @@
 # utopialib-java
 Utopia Ecosystem API wrapper written in Java
+![utopialogo](https://github.com/user-attachments/assets/869e4213-9b66-4a8e-90e5-5e789da5fa76)
+
+This library is a must have for anyone who wants to start their web3 journey with the Utopia ecosystem in Java. The library greatly simplifies working with the Utopia API for Java programming.
 
 How to
 
