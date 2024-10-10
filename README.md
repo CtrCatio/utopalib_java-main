@@ -45,3 +45,14 @@ How can this be used?
 3. development of a bot for the channel;
 4. utility for working with uNS;
 5. experiments to explore web3.0;
+
+---
+
+<a href="https://udocs.gitbook.io/utopia-api/">
+  <img align="center" width="200" src="https://github.com/Sagleft/ures/blob/master/udocs-btn.png?raw=true">
+</a>
+
+<a href="https://utopia.im/RUTECH">
+  <img align="center" width="200" src="https://github.com/Sagleft/ures/blob/master/rutopia_tech.png?raw=true">
+</a>
+
