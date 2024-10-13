@@ -16,6 +16,7 @@ How to
 2. Adding the JAR File to Your Project or use Gradle
    
 For Gradle
+
 Create a libs folder in the root of your project (if it doesn't already exist).
 Place the downloaded utopalib_java-main.jar in the libs folder.
 
