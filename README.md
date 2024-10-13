@@ -9,11 +9,11 @@ This library is a must have for anyone who wants to start their web3 journey wit
 -----
 How to
 
-1.Download the JAR file of the library:
+1. Download the JAR file of the library:
 
 [CtrCatio/utopalib_java-main/blob/main/libs/utopalib_java-main.jar](https://github.com/CtrCatio/utopalib_java-main/blob/main/libs/utopalib_java-main.jar)
 
-2. Adding the JAR File to Your Project
+2. Adding the JAR File to Your Project or use Gradle
    
 For Gradle
 Create a libs folder in the root of your project (if it doesn't already exist).
