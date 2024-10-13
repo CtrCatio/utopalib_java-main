@@ -15,12 +15,12 @@ public String token;
 
     public static void main(String[] args) throws IOException {
 
-      // libUtp lol = new libUtp();
+    // libUtp lol = new libUtp();
 
-       // lol.port = "20000";
-      //  lol.token =  "";
+       //lol.port = "20000";
+      // lol.token =  "";
 
-        // System.out.println(lol.getSystemInfo());
+         //System.out.println(lol.getSystemInfo());
        // System.out.println(lol.getReleaseNotes());
 
     } //test main

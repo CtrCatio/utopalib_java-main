@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="json-20201115">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/LibUtpApi/out/production/LibUtpApi/json-20201115.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/utopalib_java-main/json-20201115.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
