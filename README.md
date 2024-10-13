@@ -43,8 +43,8 @@ public class Main {
 
         libUtp utpAPI = new libUtp();
 
-        utpAPI .port = "20000";
-        utpAPI .token =  "219C91A00340B54F7AD4C1DB40E9B9E3";
+        utpAPI.port = "20000";
+        utpAPI.token =  "219C91A00340B54F7AD4C1DB40E9B9E3";
 
         System.out.println(utpAPI .getSystemInfo());
     }
