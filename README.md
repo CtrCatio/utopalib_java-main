@@ -9,7 +9,21 @@ This library is a must have for anyone who wants to start their web3 journey wit
 -----
 How to
 
+1. Download the JAR File
+Download the JAR file of the library:
+CtrCatio/utopalib_java-main/blob/main/libs/utopalib_java-main.jar
+2. Adding the JAR File to Your Project
+For Gradle
+Create a libs folder in the root of your project (if it doesn't already exist).
+Place the downloaded utopalib_java-main.jar in the libs folder.
+Add the following dependency to your build.gradle file:
+```groovy
+dependencies {
+    implementation files('libs/utopalib_java-main.jar')
+}
+```
 Import library 
+
 
 ```java 
 import com.company.libUtp; 
